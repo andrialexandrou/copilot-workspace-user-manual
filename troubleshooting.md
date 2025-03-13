@@ -15,6 +15,9 @@ If you are seeing an "Access Denied" error when trying Copilot Workspace for the
 
 ### Troubleshooting Organizations
 
+>[!NOTE]
+>[Stafftools](admin.github.com/stafftools) access may be helpful or necessary for troubleshooting user access permissions regarding the following limitations.
+
 When working with organizations in Copilot Workspace, you may encounter some common issues. Here are some troubleshooting tips to help you resolve them:
 
 - **You are accessing an org that must approve OAuth apps**. As part of the login you authorize the OAuth app into various orgs, depending on the org policies with regard to OAuth apps. You can request access and the organization can approve the OAuth app. If you need to re-request access or revoke any access at all you can [control the status of your connection with the OAuth app](https://github.com/settings/connections/applications/903eccd8a9d2ff50288f).
